@@ -1,7 +1,9 @@
 # Stack-Overflow
-Fetching Top questions from the stackoverflow
+This library is used to fetch top questions for the particular dates from the Stack Overflow by searching with keyword. 
 
 This Project is done Using Java 8 Streams APi
+
+Conif.Properties is used to configure the search Keyword
 
 Following are the Scenarios Covered in this Project
 
